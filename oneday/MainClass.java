@@ -1,4 +1,4 @@
-package com.javabase.example;
+package com.javabase.example.oneday;
 import static java.lang.Math.PI;
 public class MainClass {
     public static void main(String[] args) {

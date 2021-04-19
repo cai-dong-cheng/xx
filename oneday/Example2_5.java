@@ -1,4 +1,4 @@
-package com.javabase.example;
+package com.javabase.example.oneday;
 /*
 数组复制：arraycopy
  */

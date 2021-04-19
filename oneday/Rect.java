@@ -1,4 +1,4 @@
-package com.javabase.example;
+package com.javabase.example.oneday;
 /*
 矩形面积
 public类要与文件名相同

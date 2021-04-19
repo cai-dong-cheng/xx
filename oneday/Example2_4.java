@@ -1,4 +1,4 @@
-package com.javabase.example;
+package com.javabase.example.oneday;
 /*
 char型数组使用 System.out.println（）输出的是数组的所有元素的值，不是地址值。
  */
