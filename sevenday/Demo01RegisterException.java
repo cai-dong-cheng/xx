@@ -1,4 +1,4 @@
-package com.javabase.example.severday;
+package com.javabase.example.sevenday;
 
 import java.util.Scanner;
 
