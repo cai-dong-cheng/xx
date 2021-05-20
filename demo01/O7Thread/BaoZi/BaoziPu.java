@@ -1,4 +1,4 @@
-package com.javabase.example.demo01.Thread.BaoZi;
+package com.javabase.example.demo01.O7Thread.BaoZi;
 
 public class BaoziPu extends Thread {
     private Baozi bz;

@@ -1,4 +1,4 @@
-package com.javabase.example.demo01.Thread.BaoZi;
+package com.javabase.example.demo01.O7Thread.BaoZi;
 
 public class Demo {
     public static void main(String[] args) {
