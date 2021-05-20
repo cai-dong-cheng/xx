@@ -1,8 +1,6 @@
-package com.javabase.example.demo01.File.demo03Filter;
+package com.javabase.example.demo01.O8File.demo03Filter;
 
 import java.io.File;
-import java.io.FileFilter;
-import java.io.FilenameFilter;
 
 public class Demo02FileFilter {
     public static void main(String[] args) {

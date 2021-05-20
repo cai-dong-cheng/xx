@@ -1,4 +1,4 @@
-package com.javabase.example.demo01.Thread.Lambda;
+package com.javabase.example.demo01.O7Thread.Lambda;
 
 public class Demo02InvokeCalcLamba {
     public static void main(String[] args) {

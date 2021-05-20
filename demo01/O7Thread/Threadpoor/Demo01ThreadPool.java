@@ -1,4 +1,4 @@
-package com.javabase.example.demo01.Thread.Threadpoor;
+package com.javabase.example.demo01.O7Thread.Threadpoor;
 
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;

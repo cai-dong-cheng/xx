@@ -1,4 +1,4 @@
-package com.javabase.example.demo01.Thread;
+package com.javabase.example.demo01.O7Thread;
 
 public class Demo01Thread {
     public static void main(String[] args) {
